@@ -79,5 +79,17 @@
     <h1>* Los campos son obligatorios.</h1>
     
   </section>
+  <center>
+  <p>Siguenos en nuestras redes sociles</p>  
+  <a href="https://www.facebook.com/">
+  <img src="assets/images/fa.png" alt="Texto alternativo de la imagen" width="30" height="30">
+  <a href="https://www.instagram.com/">
+  <img src="assets/images/ins.png" alt="Texto alternativo de la imagen" width="30" height="30">
+  <a href="https://twitter.com/">
+  <img src="assets/images/tw.png" alt="Texto alternativo de la imagen" width="30" height="30">
+  
+
+</center>
+</a>
 </body>
 </html>
