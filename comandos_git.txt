@@ -1,0 +1,7 @@
+git clone https://github.com/Roberto-coder/Proyecto_Web.git
+git pull origin master
+git status
+git add .
+git commit -m "Descipcion commit"
+git push -u origin master
+
