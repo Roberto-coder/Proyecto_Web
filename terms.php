@@ -10,7 +10,7 @@
     <link rel="icon" href="assets/images/favicon.ico">
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
 
-    <title>PHPJabbers.com | Free Real Estate Website Template</title>
+    <title>Mejora tu sitio web</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -72,13 +72,13 @@
     </header>
 
     <!-- Page Content -->
-    <div class="page-heading about-heading header-text" style="background-image: url(assets/images/heading-5-1920x500.jpg);">
+    <div class="page-heading about-heading header-text" style="background-image: url(assets/images/img2.jpg);">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
             <div class="text-content">
-              <h4>Lorem ipsum dolor sit</h4>
-              <h2>Terms</h2>
+              <h4>Apartado legal</h4>
+              <h2>Terminos y condiciones</h2>
             </div>
           </div>
         </div>
@@ -90,50 +90,39 @@
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Lorem ipsum dolor sit amet.</h2>
+              
             </div>
+            <h5>Ley de Protección de Datos:</h5>
 
-            <h5>Lorem ipsum dolor sit amet.</h5>
-
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed voluptate nihil eum consectetur similique? Consectetur, quod, incidunt, harum nisi dolores delectus reprehenderit voluptatem perferendis dicta dolorem non blanditiis ex fugiat. Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, consequuntur, modi mollitia corporis ipsa voluptate corrupti eum ratione ex ea praesentium quibusdam? Aut, in eum facere corrupti necessitatibus perspiciatis quis.</p>
+            <p>*Información básica: Debes proporcionar información básica sobre el responsable del tratamiento de datos y los fines del procesamiento de datos personales.<br><br>*Consentimiento: Si recopilas datos personales, debes obtener el consentimiento explícito de los usuarios y explicar claramente cómo se utilizarán dichos datos.<br><br>*Derechos de los usuarios: Informa a los usuarios sobre sus derechos, como el acceso, rectificación, cancelación y oposición al procesamiento de sus datos personales.<br><br>*Seguridad de los datos: Explica las medidas de seguridad implementadas para proteger los datos personales recopilados.</p>
 
             <br>
             <br>
 
-            <h5>Lorem ipsum dolor sit amet.</h5>
+            <h5>Avisos Legales:</h5>
 
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo quae eveniet tempora reprehenderit quo, necessitatibus vel sit laboriosam, sunt obcaecati quisquam explicabo voluptatibus earum facilis quidem fuga maiores. Quasi, obcaecati? <br><br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, est officiis. Ipsam quas consequuntur adipisci quis, fuga pariatur eius eveniet qui similique nulla inventore accusantium, suscipit asperiores quibusdam culpa iure!</p>
+            <p>*Términos y condiciones: Establece las reglas y condiciones de uso de la página web y los servicios que ofreces.<br><br>*Propiedad intelectual: Indica los derechos de propiedad intelectual sobre el contenido de la página web y establece las restricciones de uso.</p>
             
             <br>
             <br>
 
-            <h5>Lorem ipsum dolor sit amet.</h5>
+            <h5>Política de Privacidad:</h5>
 
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed voluptate nihil eum consectetur similique? Consectetur, quod, incidunt, harum nisi dolores delectus reprehenderit voluptatem perferendis dicta dolorem non blanditiis ex fugiat. Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, consequuntur, modi mollitia corporis ipsa voluptate corrupti eum ratione ex ea praesentium quibusdam? Aut, in eum facere corrupti necessitatibus perspiciatis quis.</p>
+            <p>*Recopilación de datos: Explica qué información personal se recopila de los usuarios y cómo se utiliza.<br><br>*Finalidad del procesamiento: Indica los fines específicos para los cuales se recopilan y procesan los datos personales.<br><br>*Compartir datos: Informa si los datos personales se compartirán con terceros y con quién.<br><br>*Retención de datos: Establece el período durante el cual se conservarán los datos personales.<br><br>*Derechos del usuario: Explica cómo los usuarios pueden ejercer sus derechos relacionados con sus datos personales.</p>
         
             <br>
             <br>
 
-            <h5>Lorem ipsum dolor sit amet.</h5>
+            <h5>Política de Cookies:</h5>
 
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo quae eveniet tempora reprehenderit quo, necessitatibus vel sit laboriosam, sunt obcaecati quisquam explicabo voluptatibus earum facilis quidem fuga maiores. Quasi, obcaecati? <br><br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, est officiis. Ipsam quas consequuntur adipisci quis, fuga pariatur eius eveniet qui similique nulla inventore accusantium, suscipit asperiores quibusdam culpa iure!</p>
+            <p>*Uso de cookies: Informa sobre las cookies utilizadas en la página web, incluyendo su finalidad y si son cookies propias o de terceros. <br><br>*Consentimiento de cookies: Explica cómo los usuarios pueden dar su consentimiento para el uso de cookies y cómo pueden gestionarlas o desactivarlas.</p>
 
           </div>
         </div>
       </div>
     </div>
 
-    <footer>
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            <div class="inner-content">
-              <p>Copyright © 2020 Company Name - Template by: <a href="https://www.phpjabbers.com/">PHPJabbers.com</a></p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </footer>
+
 
 
     <!-- Bootstrap core JavaScript -->
