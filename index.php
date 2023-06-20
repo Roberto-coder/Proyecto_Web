@@ -108,7 +108,7 @@
           </div>
           <div class="col-md-4">
             <div class="product-item">
-              <a href="package-details.php"><img src="assets/images/product-1-370x270.jpg" alt=""></a>
+              <a href="package-details.php"><img src="assets/images2/oficinas.jpg" alt=""></a>
               <div class="down-content">
                 <a href="package-details.php"><h4>Sitio Web para oficinas</h4></a>
 
@@ -126,7 +126,7 @@
 
           <div class="col-md-4">
             <div class="product-item">
-              <a href="package-details.php"><img src="assets/images/product-2-370x270.jpg" alt=""></a>
+              <a href="package-details.php"><img src="assets/images2/fotografo.jpg" alt=""></a>
               <div class="down-content">
                 <a href="package-details.php"><h4>Galeria online para Fotos</h4></a>
 
@@ -145,7 +145,7 @@
 
           <div class="col-md-4">
             <div class="product-item">
-              <a href="package-details.php"><img src="assets/images/product-3-370x270.jpg" alt=""></a>
+              <a href="package-details.php"><img src="assets/images2/clases.png" alt=""></a>
               <div class="down-content">
                 <a href="package-details.php"><h4>Salon de clases en linea</h4></a>
 
@@ -191,7 +191,7 @@
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="service-item">
-              <a href="#" class="services-item-image"><img src="assets/images/blog-2-370x270.jpg" class="img-fluid" alt=""></a>
+              <a href="#" class="services-item-image"><img src="assets/images2/auto.jpg" class="img-fluid" alt=""></a>
 
               <div class="down-content">
                 <h4><a href="#">Sitio para reparaciones de auto</a></h4>
@@ -202,7 +202,7 @@
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="service-item">
-              <a href="#" class="services-item-image"><img src="assets/images/blog-3-370x270.jpg" class="img-fluid" alt=""></a>
+              <a href="#" class="services-item-image"><img src="assets/images2/fiesta.jpg" class="img-fluid" alt=""></a>
 
               <div class="down-content">
                 <h4><a href="#">Sitio de Decoraciones para fiesta</a></h4>

@@ -39,33 +39,33 @@
     <header class="">
       <nav class="navbar navbar-expand-lg">
         <div class="container">
-          <a class="navbar-brand" href="index.html"><h2>Real Estate <em>Website</em></h2></a>
+          <a class="navbar-brand" href="index.html"><h2>Web<em>Site</em></h2></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="index.html">Home
+                    <a class="nav-link" href="index.php">Inicio
                       <span class="sr-only">(current)</span>
                     </a>
                 </li> 
 
-                <li class="nav-item"><a class="nav-link" href="packages.html">Packages</a></li>
+                <li class="nav-item"><a class="nav-link" href="packages.php">Servicios</a></li>
 
-                <li class="nav-item active"><a class="nav-link" href="blog.html">Blog</a></li>
+                <li class="nav-item active"><a class="nav-link" href="blog.php">Blog</a></li>
 
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">More</a>
                     
                     <div class="dropdown-menu">
-                      <a class="dropdown-item" href="about-us.html">About Us</a>
-                      <a class="dropdown-item" href="testimonials.html">Testimonials</a>
-                      <a class="dropdown-item" href="terms.html">Terms</a>
+                      <a class="dropdown-item" href="about-us.php">About Us</a>
+                      <a class="dropdown-item" href="testimonials.php">Testimonials</a>
+                      <a class="dropdown-item" href="terms.php">Terms</a>
                     </div>
                 </li>
                 
-                <li class="nav-item"><a class="nav-link" href="contact.html">Contact Us</a></li>
+                <li class="nav-item"><a class="nav-link" href="contact.php">Contact Us</a></li>
             </ul>
           </div>
         </div>
@@ -73,13 +73,13 @@
     </header>
 
     <!-- Page Content -->
-    <div class="page-heading about-heading header-text" style="background-image: url(assets/images/heading-6-1920x500.jpg);">
+    <div class="page-heading about-heading header-text" style="background-image: url(assets/images2/relleno2.jpg);">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
             <div class="text-content">
               <h4><i class="fa fa-user"></i>John Doe  &nbsp;&nbsp;&nbsp;&nbsp;  <i class="fa fa-calendar"></i> 12/06/2020 10:30   &nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-eye"></i> 114</h4>
-              <h2>Lorem ipsum dolor sit amet, consectetur adipisicing</h2>
+              <h2>Titulo: Blog sobre trabajadores</h2>
             </div>
           </div>
         </div>
@@ -91,38 +91,38 @@
         <div class="row">
             <div class="col-md-12">
               <div class="section-heading">
-                <h2>Lorem ipsum dolor sit amet, consectetur.</h2>
+                <h2>En este articulo se trata acerca de temas que los empleados consideran importantes</h2>
               </div>
             </div>
 
             <div class="col-md-8">
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, sed. Ex, id autem cum assumenda, quisquam cupiditate amet dolorem atque ipsam pariatur sequi voluptatem est nesciunt eum, aspernatur, tenetur rem. <br>
+                <p>Las opiniones de los trabajadores son de vital importancia para la empresa ya que siembre se ha buscado una relacion empleado-empleador eficiente <br>
 
                 <br>
 
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, consequatur, magnam. Dolorum vitae a vel quisquam. Fuga quia suscipit id veritatis sint earum impedit corporis quidem eum consectetur ipsam ex sequi ad, distinctio enim tenetur eveniet eligendi. Laborum, sapiente, magnam.</p>
+               ambien se muestran en acuerdo con las politicas de privacidad y los terminos y condiciones que se establecieron</p>
 
                 <br>
 
-                <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus, modi.</h5>
+                <h5>En esta nueva etapa y version de la pagina</h5>
 
                 <br>
 
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam officia in adipisci. Corporis rem beatae cupiditate neque consequuntur necessitatibus expedita laudantium temporibus quam ex quidem, aut non blanditiis soluta deserunt dolores mollitia repudiandae voluptatibus perspiciatis dolor quos distinctio! Atque, magnam. <br>
+                <p>Se pretende mejorar lo que previamente se ha analizado y documentado por nuestro personal de analisis de software los cuales consideran coherente planear y empezar esta nueva etapa <br>
 
                 <br>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt dolore ducimus, ad itaque reprehenderit repellat dignissimos, qui velit dolores voluptas.</p>
+                "Conocer y estar al pendiente de las necesidades de nuestros usuarios" Esa es la filosofia de la empresa, esta se ve reflejada dia con dia.</p>
             </div>
 
             <div class="col-md-4">
               <div class="left-content">
-                <h4>Lorem ipsum dolor sit amet.</h4>
+                <h4>Enterate de los anuncios de la empresa mas recientes</h4>
 
                 <br>
                 
-                <p>Lorem ipsum dolor sit amet, consectetur adipisic elit. Sed voluptate nihil eumester consectetur similiqu consectetur.<br><br>Lorem ipsum dolor sit amet, consectetur adipisic elit. Et, consequuntur, modi mollitia corporis ipsa voluptate corrupti.</p>
+                <p>En esta semana contratamos cerca de 40 nuevos candidatos que seguramente estaran apoyando en las tareas y obligaciones de la empresa</p>
                 
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, minus?</p>
+                <p>¿Quieres saber la historia de estos nuevos empleados?</p>
               </div>
             </div>
         </div>
@@ -130,7 +130,7 @@
         <br>
         
         <div>
-          <img src="assets/images/blog-image-fullscren-1-1920x700.jpg" class="img-fluid" alt="">
+          <img src="assets/images2/relleno.jpg" class="img-fluid" alt="">
         </div>
       </div>
     </div>
@@ -175,7 +175,7 @@
           <div class="col-md-4">
               <div class="left-content">
 
-                <p>Lorem ipsum dolor sit amet, consectetur adipisic elit. Sed voluptate nihil eumester consectetur similiqu consectetur. Lorem ipsum dolor sit amet, consectetur adipisic elit. Et, consequuntur, modi mollitia corporis ipsa voluptate corrupti.</p>
+                <p>Sientete libre de decirnos lo que piensa y tendras una respuesta cordial y rapida</p>
 
                 <br> 
 

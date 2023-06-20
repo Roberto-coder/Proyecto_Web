@@ -93,7 +93,7 @@
             <div class="row">
               <div class="col-md-6">
                 <div class="service-item">
-                  <a href="blog-details.php" class="services-item-image"><img src="assets/images/clientes.jpg" class="img-fluid" alt=""></a>
+                  <a href="blog-details.php" class="services-item-image"><img src="assets/images2/clientes.png" class="img-fluid" alt=""></a>
 
                   <div class="down-content">
                     <h4><a href="blog-details.php">!Nuestros clientes nos dan las mejores reseñas¡</a></h4>
@@ -104,7 +104,7 @@
               </div>
               <div class="col-md-6">
                 <div class="service-item">
-                  <a href="blog-details.php" class="services-item-image"><img src="assets/images/blog-2-370x270.jpg" class="img-fluid" alt=""></a>
+                  <a href="blog-details.php" class="services-item-image"><img src="assets/images2/version.jpg" class="img-fluid" alt=""></a>
 
                   <div class="down-content">
                     <h4><a href="blog-details.php">Nueva version 5.1 de nuestra pagina sale al mercado</a></h4>
@@ -115,7 +115,7 @@
               </div>
               <div class="col-md-6">
                 <div class="service-item">
-                  <a href="blog-details.php" class="services-item-image"><img src="assets/images/blog-3-370x270.jpg" class="img-fluid" alt=""></a>
+                  <a href="blog-details.php" class="services-item-image"><img src="assets/images2/trabajadores.jpg" class="img-fluid" alt=""></a>
 
                   <div class="down-content">
                     <h4><a href="blog-details.php">Conoce a nuestro equipo de trabajadores con la mayor calidad y experiencia</a></h4>
