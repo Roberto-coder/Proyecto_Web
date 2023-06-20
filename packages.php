@@ -39,7 +39,7 @@
     <header class="">
       <nav class="navbar navbar-expand-lg">
         <div class="container">
-          <a class="navbar-brand" href="index.php"><h2>Travel Agency <em>Website</em></h2></a>
+          <a class="navbar-brand" href="index.php"><h2>WEB <em>SITE</em></h2></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -51,7 +51,7 @@
                     </a>
                 </li> 
 
-                <li class="nav-item active"><a class="nav-link" href="packages.php">Packages</a></li>
+                <li class="nav-item active"><a class="nav-link" href="packages.php">Servicios</a></li>
 
                 <li class="nav-item"><a class="nav-link" href="blog.php">Blog</a></li>
 
@@ -80,8 +80,8 @@
         <div class="row">
           <div class="col-md-12">
             <div class="text-content">
-              <h4>Lorem ipsum dolor sit amet</h4>
-              <h2>Packages</h2>
+              <h4>Te mostramos nuestra calidad a travez de nuestros</h4>
+              <h2>SERVICIOS Y SOLUCIONES</h2>
             </div>
           </div>
         </div>
@@ -95,16 +95,15 @@
             <div class="product-item">
               <a href="package-details.php"><img src="assets/images/product-1-370x270.jpg" alt=""></a>
               <div class="down-content">
-                <a href="package-details.php"><h4>Limelight Lodge</h4></a>
+                <a href="package-details.php"><h4>Sitio Web para oficinas</h4></a>
 
                 <h6>$300 - $400</h6>
 
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum incidunt, aperiam nostrum et. Voluptas vel labore numqua.</p>
+                <p>Personaliza un sitio para tus empleados totalmente funcional</p>
 
                 <small>
-                     <strong title="Available"><i class="fa fa-calendar"></i> Spring</strong> &nbsp;&nbsp;&nbsp;&nbsp;
-                     <strong title="Nights"><i class="fa fa-cube"></i> 20 nights</strong> &nbsp;&nbsp;&nbsp;&nbsp;
-                     <strong title="Flight included"><i class="fa fa-plane"></i> Flight included</strong>
+                     <strong title="Available"><i class="fa fa-calendar"></i> Agendar</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+                     <strong title="Nights"><i class="fa fa-cube"></i> Tareas</strong> &nbsp;&nbsp;&nbsp;&nbsp;
                 </small>
               </div>
             </div>
@@ -114,16 +113,16 @@
             <div class="product-item">
               <a href="package-details.php"><img src="assets/images/product-2-370x270.jpg" alt=""></a>
               <div class="down-content">
-                <a href="package-details.php"><h4>Limelight Lodge</h4></a>
+                <a href="package-details.php"><h4>Galeria online para Fotos</h4></a>
 
                 <h6>$300 - $400</h6>
 
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum incidunt, aperiam nostrum et. Voluptas vel labore numqua.</p>
+                <p>Sube tus fotos y despreocupate del almacenamiento, atrae clientes con yu pagina</p>
 
                 <small>
-                     <strong title="Available"><i class="fa fa-calendar"></i> Spring</strong> &nbsp;&nbsp;&nbsp;&nbsp;
-                     <strong title="Nights"><i class="fa fa-cube"></i> 20 nights</strong> &nbsp;&nbsp;&nbsp;&nbsp;
-                     <strong title="Flight included"><i class="fa fa-plane"></i> Flight included</strong>
+                     <strong title="Available"><i class="fa fa-calendar"></i> Agendar</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+                     <strong title="Nights"><i class="fa fa-cube"></i> Tareas</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+                     
                 </small>
               </div>
             </div>
@@ -133,16 +132,16 @@
             <div class="product-item">
               <a href="package-details.php"><img src="assets/images/product-3-370x270.jpg" alt=""></a>
               <div class="down-content">
-                <a href="package-details.php"><h4>Limelight Lodge</h4></a>
+                <a href="package-details.php"><h4>Salon de clases en linea</h4></a>
 
                 <h6>$300 - $400</h6>
 
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum incidunt, aperiam nostrum et. Voluptas vel labore numqua.</p>
+                <p>Dale a tus alumnos una pagina donde aprendan eficientemente segun sus necesidades</p>
 
                 <small>
-                     <strong title="Available"><i class="fa fa-calendar"></i> Spring</strong> &nbsp;&nbsp;&nbsp;&nbsp;
-                     <strong title="Nights"><i class="fa fa-cube"></i> 20 nights</strong> &nbsp;&nbsp;&nbsp;&nbsp;
-                     <strong title="Flight included"><i class="fa fa-plane"></i> Flight included</strong>
+                     <strong title="Available"><i class="fa fa-calendar"></i> Agendar</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+                     <strong title="Nights"><i class="fa fa-cube"></i> Tareas</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+                     
                 </small>
               </div>
             </div>
@@ -152,16 +151,16 @@
             <div class="product-item">
               <a href="package-details.php"><img src="assets/images/product-4-370x270.jpg" alt=""></a>
               <div class="down-content">
-                <a href="package-details.php"><h4>Limelight Lodge</h4></a>
+                <a href="package-details.php"><h4>Cursos Desarrollo Web</h4></a>
 
                 <h6>$300 - $400</h6>
 
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum incidunt, aperiam nostrum et. Voluptas vel labore numqua.</p>
+                <p>Certificate y comienza a trabajar, nosotros de ayudamos</p>
 
                 <small>
-                     <strong title="Available"><i class="fa fa-calendar"></i> Spring</strong> &nbsp;&nbsp;&nbsp;&nbsp;
-                     <strong title="Nights"><i class="fa fa-cube"></i> 20 nights</strong> &nbsp;&nbsp;&nbsp;&nbsp;
-                     <strong title="Flight included"><i class="fa fa-plane"></i> Flight included</strong>
+                     <strong title="Available"><i class="fa fa-calendar"></i> Agendar</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+                     <strong title="Nights"><i class="fa fa-cube"></i> Tareas</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+                     
                 </small>
               </div>
             </div>
@@ -171,16 +170,15 @@
             <div class="product-item">
               <a href="package-details.php"><img src="assets/images/product-5-370x270.jpg" alt=""></a>
               <div class="down-content">
-                <a href="package-details.php"><h4>Limelight Lodge</h4></a>
+                <a href="package-details.php"><h4>Carrito de compras</h4></a>
 
                 <h6>$300 - $400</h6>
 
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum incidunt, aperiam nostrum et. Voluptas vel labore numqua.</p>
+                <p>Automatiza la venta de tus productos con ventas online</p>
 
                 <small>
-                     <strong title="Available"><i class="fa fa-calendar"></i> Spring</strong> &nbsp;&nbsp;&nbsp;&nbsp;
-                     <strong title="Nights"><i class="fa fa-cube"></i> 20 nights</strong> &nbsp;&nbsp;&nbsp;&nbsp;
-                     <strong title="Flight included"><i class="fa fa-plane"></i> Flight included</strong>
+                     <strong title="Available"><i class="fa fa-calendar"></i> Agendar</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+                     <strong title="Nights"><i class="fa fa-cube"></i> Tareas</strong> &nbsp;&nbsp;&nbsp;&nbsp;
                 </small>
               </div>
             </div>
@@ -190,16 +188,16 @@
             <div class="product-item">
               <a href="package-details.php"><img src="assets/images/product-6-370x270.jpg" alt=""></a>
               <div class="down-content">
-                <a href="package-details.php"><h4>Limelight Lodge</h4></a>
+                <a href="package-details.php"><h4>Pagina Web personalizada</h4></a>
 
                 <h6>$300 - $400</h6>
 
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum incidunt, aperiam nostrum et. Voluptas vel labore numqua.</p>
+                <p>Solo es cuestion de que lo imagines y nosotros hacemos el resto</p>
 
                 <small>
-                     <strong title="Available"><i class="fa fa-calendar"></i> Spring</strong> &nbsp;&nbsp;&nbsp;&nbsp;
-                     <strong title="Nights"><i class="fa fa-cube"></i> 20 nights</strong> &nbsp;&nbsp;&nbsp;&nbsp;
-                     <strong title="Flight included"><i class="fa fa-plane"></i> Flight included</strong>
+                     <strong title="Available"><i class="fa fa-calendar"></i> Agendar</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+                     <strong title="Nights"><i class="fa fa-cube"></i> Tareas</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+                     
                 </small>
               </div>
             </div>

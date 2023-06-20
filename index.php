@@ -38,7 +38,7 @@
     <header class="">
       <nav class="navbar navbar-expand-lg">
         <div class="container">
-          <a class="navbar-brand" href="index.php"><h2>Travel Agency <em>Website</em></h2></a>
+          <a class="navbar-brand" href="index.php"><h2>WEB<em>SITE</em></h2></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -50,7 +50,7 @@
                     </a>
                 </li> 
 
-                <li class="nav-item"><a class="nav-link" href="packages.php">Packages</a></li>
+                <li class="nav-item"><a class="nav-link" href="packages.php">Servicios</a></li>
 
                 <li class="nav-item"><a class="nav-link" href="blog.php">Blog</a></li>
 
@@ -77,8 +77,8 @@
       <div class="owl-banner owl-carousel">
         <div class="banner-item-01">
           <div class="text-content">
-            <h4>Find your car today!</h4>
-            <h2>Lorem ipsum dolor sit amet</h2>
+            <h4>Inova tu negocio Hoy!</h4>
+            <h2>Crea o Mejora tu pagina WEB al mejor precio </h2>
           </div>
         </div>
         <div class="banner-item-02">
@@ -103,23 +103,22 @@
           <div class="col-md-12">
             <div class="section-heading">
               <h2>Proyectos</h2>
-              <a href="packages.php">view more <i class="fa fa-angle-right"></i></a>
+              <a href="packages.php">ver mas <i class="fa fa-angle-right"></i></a>
             </div>
           </div>
           <div class="col-md-4">
             <div class="product-item">
               <a href="package-details.php"><img src="assets/images/product-1-370x270.jpg" alt=""></a>
               <div class="down-content">
-                <a href="package-details.php"><h4>Limelight Lodge</h4></a>
+                <a href="package-details.php"><h4>Sitio Web para oficinas</h4></a>
 
                 <h6>$300 - $400</h6>
 
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum incidunt, aperiam nostrum et. Voluptas vel labore numqua.</p>
+                <p>Personaliza un sitio para tus empleados totalmente funcional</p>
 
                 <small>
-                     <strong title="Available"><i class="fa fa-calendar"></i> Spring</strong> &nbsp;&nbsp;&nbsp;&nbsp;
-                     <strong title="Nights"><i class="fa fa-cube"></i> 20 nights</strong> &nbsp;&nbsp;&nbsp;&nbsp;
-                     <strong title="Flight included"><i class="fa fa-plane"></i> Flight included</strong>
+                     <strong title="Available"><i class="fa fa-calendar"></i> Agendar</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+                     <strong title="Nights"><i class="fa fa-cube"></i> Tareas</strong> &nbsp;&nbsp;&nbsp;&nbsp;
                 </small>
               </div>
             </div>
@@ -129,16 +128,16 @@
             <div class="product-item">
               <a href="package-details.php"><img src="assets/images/product-2-370x270.jpg" alt=""></a>
               <div class="down-content">
-                <a href="package-details.php"><h4>Limelight Lodge</h4></a>
+                <a href="package-details.php"><h4>Galeria online para Fotos</h4></a>
 
                 <h6>$300 - $400</h6>
 
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum incidunt, aperiam nostrum et. Voluptas vel labore numqua.</p>
+                <p>Sube tus fotos y despreocupate del almacenamiento, atrae clientes con yu pagina</p>
 
                 <small>
-                     <strong title="Available"><i class="fa fa-calendar"></i> Spring</strong> &nbsp;&nbsp;&nbsp;&nbsp;
-                     <strong title="Nights"><i class="fa fa-cube"></i> 20 nights</strong> &nbsp;&nbsp;&nbsp;&nbsp;
-                     <strong title="Flight included"><i class="fa fa-plane"></i> Flight included</strong>
+                     <strong title="Available"><i class="fa fa-calendar"></i> Agendar</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+                     <strong title="Nights"><i class="fa fa-cube"></i> Tareas</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+                     
                 </small>
               </div>
             </div>
@@ -148,16 +147,16 @@
             <div class="product-item">
               <a href="package-details.php"><img src="assets/images/product-3-370x270.jpg" alt=""></a>
               <div class="down-content">
-                <a href="package-details.php"><h4>Limelight Lodge</h4></a>
+                <a href="package-details.php"><h4>Salon de clases en linea</h4></a>
 
                 <h6>$300 - $400</h6>
 
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum incidunt, aperiam nostrum et. Voluptas vel labore numqua.</p>
+                <p>Dale a tus alumnos una pagina donde aprendan eficientemente segun sus necesidades</p>
 
                 <small>
-                     <strong title="Available"><i class="fa fa-calendar"></i> Spring</strong> &nbsp;&nbsp;&nbsp;&nbsp;
-                     <strong title="Nights"><i class="fa fa-cube"></i> 20 nights</strong> &nbsp;&nbsp;&nbsp;&nbsp;
-                     <strong title="Flight included"><i class="fa fa-plane"></i> Flight included</strong>
+                     <strong title="Available"><i class="fa fa-calendar"></i> Agendar</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+                     <strong title="Nights"><i class="fa fa-cube"></i> Tareas</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+                     
                 </small>
               </div>
             </div>
@@ -175,7 +174,7 @@
             <div class="section-heading">
               <h2>Proximos proyectos</h2>
 
-              <a href="blog.php">read more <i class="fa fa-angle-right"></i></a>
+              <a href="blog.php">leer mas <i class="fa fa-angle-right"></i></a>
             </div>
           </div>
 
@@ -184,9 +183,9 @@
               <a href="#" class="services-item-image"><img src="assets/images/blog-1-370x270.jpg" class="img-fluid" alt=""></a>
 
               <div class="down-content">
-                <h4><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit hic</a></h4>
+                <h4><a href="#">Sitio Vacacional para hoteles</a></h4>
 
-                <p style="margin: 0;"> John Doe &nbsp;&nbsp;|&nbsp;&nbsp; 12/06/2020 10:30 &nbsp;&nbsp;|&nbsp;&nbsp; 114</p>
+                <p style="margin: 0;"> John Doe &nbsp;&nbsp;|&nbsp;&nbsp; 12/06/2024 10:30 &nbsp;&nbsp;|&nbsp;&nbsp; 114</p>
               </div>
             </div>
           </div>
@@ -195,9 +194,9 @@
               <a href="#" class="services-item-image"><img src="assets/images/blog-2-370x270.jpg" class="img-fluid" alt=""></a>
 
               <div class="down-content">
-                <h4><a href="#">Lorem ipsum dolor sit amet consectetur adipisicing elit</a></h4>
+                <h4><a href="#">Sitio para reparaciones de auto</a></h4>
 
-                <p style="margin: 0;"> John Doe &nbsp;&nbsp;|&nbsp;&nbsp; 12/06/2020 10:30 &nbsp;&nbsp;|&nbsp;&nbsp; 114</p>
+                <p style="margin: 0;"> Chris Evans &nbsp;&nbsp;|&nbsp;&nbsp; 11/05/2024 08:30 &nbsp;&nbsp;|&nbsp;&nbsp; 115</p>
               </div>
             </div>
           </div>
@@ -206,9 +205,9 @@
               <a href="#" class="services-item-image"><img src="assets/images/blog-3-370x270.jpg" class="img-fluid" alt=""></a>
 
               <div class="down-content">
-                <h4><a href="#">Aperiam modi voluptatum fuga officiis cumque</a></h4>
+                <h4><a href="#">Sitio de Decoraciones para fiesta</a></h4>
 
-                <p style="margin: 0;"> John Doe &nbsp;&nbsp;|&nbsp;&nbsp; 12/06/2020 10:30 &nbsp;&nbsp;|&nbsp;&nbsp; 114</p>
+                <p style="margin: 0;"> Lois Lane &nbsp;&nbsp;|&nbsp;&nbsp; 07/03/2024 10:30 &nbsp;&nbsp;|&nbsp;&nbsp; 114</p>
               </div>
             </div>
           </div>

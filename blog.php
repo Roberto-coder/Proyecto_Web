@@ -51,7 +51,7 @@
                     </a>
                 </li> 
 
-                <li class="nav-item"><a class="nav-link" href="packages.php">Packages</a></li>
+                <li class="nav-item"><a class="nav-link" href="packages.php">Servicios</a></li>
 
                 <li class="nav-item active"><a class="nav-link" href="blog.php">Blog</a></li>
 
@@ -78,7 +78,7 @@
         <div class="row">
           <div class="col-md-12">
             <div class="text-content">
-              <h4>Lorem ipsum dolor sit amet</h4>
+              <h4>Nuevos articulos cada mes</h4>
               <h2>Blog</h2>
             </div>
           </div>
@@ -93,12 +93,12 @@
             <div class="row">
               <div class="col-md-6">
                 <div class="service-item">
-                  <a href="blog-details.php" class="services-item-image"><img src="assets/images/blog-1-370x270.jpg" class="img-fluid" alt=""></a>
+                  <a href="blog-details.php" class="services-item-image"><img src="assets/images/clientes.jpg" class="img-fluid" alt=""></a>
 
                   <div class="down-content">
-                    <h4><a href="blog-details.php">Lorem ipsum dolor sit amet, consectetur adipisicing elit hic</a></h4>
+                    <h4><a href="blog-details.php">!Nuestros clientes nos dan las mejores reseñas¡</a></h4>
 
-                    <p style="margin: 0;"> John Doe &nbsp;&nbsp;|&nbsp;&nbsp; 12/06/2020 10:30 &nbsp;&nbsp;|&nbsp;&nbsp; 114</p>
+                    <p style="margin: 0;"> Clark kent&nbsp;&nbsp;|&nbsp;&nbsp; 12/03/2020 10:30 &nbsp;&nbsp;|&nbsp;&nbsp; 114</p>
                   </div>
                 </div>
               </div>
@@ -107,9 +107,9 @@
                   <a href="blog-details.php" class="services-item-image"><img src="assets/images/blog-2-370x270.jpg" class="img-fluid" alt=""></a>
 
                   <div class="down-content">
-                    <h4><a href="blog-details.php">Lorem ipsum dolor sit amet consectetur adipisicing elit</a></h4>
+                    <h4><a href="blog-details.php">Nueva version 5.1 de nuestra pagina sale al mercado</a></h4>
 
-                    <p style="margin: 0;"> John Doe &nbsp;&nbsp;|&nbsp;&nbsp; 12/06/2020 10:30 &nbsp;&nbsp;|&nbsp;&nbsp; 114</p>
+                    <p style="margin: 0;"> John Doe &nbsp;&nbsp;|&nbsp;&nbsp; 09/06/2020 10:30 &nbsp;&nbsp;|&nbsp;&nbsp; 114</p>
                   </div>
                 </div>
               </div>
@@ -118,43 +118,9 @@
                   <a href="blog-details.php" class="services-item-image"><img src="assets/images/blog-3-370x270.jpg" class="img-fluid" alt=""></a>
 
                   <div class="down-content">
-                    <h4><a href="blog-details.php">Aperiam modi voluptatum fuga officiis cumque</a></h4>
+                    <h4><a href="blog-details.php">Conoce a nuestro equipo de trabajadores con la mayor calidad y experiencia</a></h4>
 
-                    <p style="margin: 0;"> John Doe &nbsp;&nbsp;|&nbsp;&nbsp; 12/06/2020 10:30 &nbsp;&nbsp;|&nbsp;&nbsp; 114</p>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-md-6">
-                <div class="service-item">
-                  <a href="blog-details.php" class="services-item-image"><img src="assets/images/blog-4-370x270.jpg" class="img-fluid" alt=""></a>
-
-                  <div class="down-content">
-                    <h4><a href="blog-details.php">Lorem ipsum dolor sit amet, consectetur adipisicing elit hic</a></h4>
-
-                    <p style="margin: 0;"> John Doe &nbsp;&nbsp;|&nbsp;&nbsp; 12/06/2020 10:30 &nbsp;&nbsp;|&nbsp;&nbsp; 114</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="service-item">
-                  <a href="blog-details.php" class="services-item-image"><img src="assets/images/blog-5-370x270.jpg" class="img-fluid" alt=""></a>
-
-                  <div class="down-content">
-                    <h4><a href="blog-details.php">Lorem ipsum dolor sit amet consectetur adipisicing elit</a></h4>
-
-                    <p style="margin: 0;"> John Doe &nbsp;&nbsp;|&nbsp;&nbsp; 12/06/2020 10:30 &nbsp;&nbsp;|&nbsp;&nbsp; 114</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="service-item">
-                  <a href="blog-details.php" class="services-item-image"><img src="assets/images/blog-6-370x270.jpg" class="img-fluid" alt=""></a>
-
-                  <div class="down-content">
-                    <h4><a href="blog-details.php">Aperiam modi voluptatum fuga officiis cumque</a></h4>
-
-                    <p style="margin: 0;"> John Doe &nbsp;&nbsp;|&nbsp;&nbsp; 12/06/2020 10:30 &nbsp;&nbsp;|&nbsp;&nbsp; 114</p>
+                    <p style="margin: 0;"> Peter Parker &nbsp;&nbsp;|&nbsp;&nbsp; 07/07/2020 10:30 &nbsp;&nbsp;|&nbsp;&nbsp; 114</p>
                   </div>
                 </div>
               </div>
@@ -174,7 +140,7 @@
           <div class="col-md-4">
             <div class="contact-form">
               <div class="form-group">
-                <h5>Blog Search</h5>
+                <h5>Buscar Blog</h5>
               </div>
 
               <div class="row">
@@ -183,18 +149,18 @@
                 </div>
 
                 <div class="col-4">
-                  <button class="filled-button" type="button">Go</button>
+                  <button class="filled-button" type="button">Ir</button>
                 </div>
               </div>
             </div>
 
             <div class="form-group">
-              <h5>Lorem ipsum dolor sit amet</h5>
+              <h5>Explora nuestros articulos</h5>
             </div>
 
-            <p><a href="blog-details.php">Lorem ipsum dolor sit amet, consectetur adipisicing.</a></p>
-            <p><a href="blog-details.php">Et animi voluptatem, assumenda enim, consectetur quaerat!</a></p>
-            <p><a href="blog-details.php">Ducimus magni eveniet sit doloremque molestiae alias mollitia vitae.</a></p>
+            <p><a href="blog-details.php">Mas recientas</a></p>
+            <p><a href="blog-details.php">Mas vistos</a></p>
+            <p><a href="blog-details.php">Mejor valorados</a></p>
           </div>
         </div>
       </div>
