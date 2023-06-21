@@ -93,7 +93,7 @@
         <div class="row">
           <div class="col-md-4">
             <div class="product-item">
-              <a href="package-details.php"><img src="assets/images/product-1-370x270.jpg" alt=""></a>
+              <a href="package-details.php"><img src="assets/images2/oficinas.jpg" alt=""></a>
               <div class="down-content">
                 <a href="package-details.php"><h4>Sitio Web para oficinas</h4></a>
 
@@ -111,7 +111,7 @@
 
           <div class="col-md-4">
             <div class="product-item">
-              <a href="package-details.php"><img src="assets/images/product-2-370x270.jpg" alt=""></a>
+              <a href="package-details.php"><img src="assets/images2/fotografo.jpg" alt=""></a>
               <div class="down-content">
                 <a href="package-details.php"><h4>Galeria online para Fotos</h4></a>
 
@@ -130,7 +130,7 @@
 
           <div class="col-md-4">
             <div class="product-item">
-              <a href="package-details.php"><img src="assets/images/product-3-370x270.jpg" alt=""></a>
+              <a href="package-details.php"><img src="assets/images2/clases.png" alt=""></a>
               <div class="down-content">
                 <a href="package-details.php"><h4>Salon de clases en linea</h4></a>
 
@@ -149,7 +149,7 @@
 
           <div class="col-md-4">
             <div class="product-item">
-              <a href="package-details.php"><img src="assets/images/product-4-370x270.jpg" alt=""></a>
+              <a href="package-details.php"><img src="assets/images2/relleno5.jpg" alt=""></a>
               <div class="down-content">
                 <a href="package-details.php"><h4>Cursos Desarrollo Web</h4></a>
 
@@ -168,7 +168,7 @@
 
           <div class="col-md-4">
             <div class="product-item">
-              <a href="package-details.php"><img src="assets/images/product-5-370x270.jpg" alt=""></a>
+              <a href="package-details.php"><img src="assets/images2/carrito.jpg" alt=""></a>
               <div class="down-content">
                 <a href="package-details.php"><h4>Carrito de compras</h4></a>
 
@@ -186,7 +186,7 @@
 
           <div class="col-md-4">
             <div class="product-item">
-              <a href="package-details.php"><img src="assets/images/product-6-370x270.jpg" alt=""></a>
+              <a href="package-details.php"><img src="assets/images2/servicios.jpg" alt=""></a>
               <div class="down-content">
                 <a href="package-details.php"><h4>Pagina Web personalizada</h4></a>
 

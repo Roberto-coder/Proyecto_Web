@@ -11,7 +11,7 @@
 
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
 
-    <title>PHPJabber | Free Website 2</title>
+    <title>Mejora tu sitio Web</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -39,29 +39,29 @@
     <header class="">
       <nav class="navbar navbar-expand-lg">
         <div class="container">
-          <a class="navbar-brand" href="index.html"><h2>Lorem <em>Ipsum</em></h2></a>
+          <a class="navbar-brand" href="index.html"><h2>WEB <em>SITE</em></h2></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="index.html">Home
+                    <a class="nav-link" href="index.php">Inicio
                       <span class="sr-only">(current)</span>
                     </a>
                 </li> 
 
-                <li class="nav-item active"><a class="nav-link" href="packages.html">Packages</a></li>
+                <li class="nav-item active"><a class="nav-link" href="packages.php">Packages</a></li>
 
-                <li class="nav-item"><a class="nav-link" href="blog.html">Blog</a></li>
+                <li class="nav-item"><a class="nav-link" href="blog.php">Blog</a></li>
 
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">More</a>
+                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Mas</a>
                     
                     <div class="dropdown-menu">
-                      <a class="dropdown-item" href="about-us.html">About Us</a>
-                      <a class="dropdown-item" href="testimonials.html">Testimonials</a>
-                      <a class="dropdown-item" href="terms.html">Terms</a>
+                      <a class="dropdown-item" href="about-us.php">Sobre nosotros</a>
+                      <a class="dropdown-item" href="testimonials.php">Testimonials</a>
+                      <a class="dropdown-item" href="terms.php">Terminos y condiciones</a>
                     </div>
                 </li>
 
@@ -74,14 +74,14 @@
     </header>
 
     <!-- Page Content -->
-    <div class="page-heading about-heading header-text" style="background-image: url(assets/images/heading-6-1920x500.jpg);">
+    <div class="page-heading about-heading header-text" style="background-image: url(assets/images2/relleno4.jpg);">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
             <div class="text-content">
               <h4>€300 - €4000</h4>
 
-              <h2>Lorem ipsum dolor sit amet</h2>
+              <h2>Sitio Web</h2>
             </div>
           </div>
         </div>
@@ -93,25 +93,25 @@
         <div class="row">
           <div class="col-md-6">
             <div>
-              <img src="assets/images/product-details-1-740x540.jpg" alt="" class="img-fluid wc-image">
+              <img src="assets/images2/relleno5.jpg" alt="" class="img-fluid wc-image">
             </div>
             <br>
             <div class="row">
               <div class="col-sm-4 col-6">
                 <div>
-                  <img src="assets/images/product-1-370x270.jpg" alt="" class="img-fluid">
+                  <img src="assets/images2/relleno.jpg" alt="" class="img-fluid">
                 </div>
                 <br>
               </div>
               <div class="col-sm-4 col-6">
                 <div>
-                  <img src="assets/images/product-2-370x270.jpg" alt="" class="img-fluid">
+                  <img src="assets/images2/relleno3.jpg" alt="" class="img-fluid">
                 </div>
                 <br>
               </div>
               <div class="col-sm-4 col-6">
                 <div>
-                  <img src="assets/images/product-3-370x270.jpg" alt="" class="img-fluid">
+                  <img src="assets/images2/relleno2.jpg" alt="" class="img-fluid">
                 </div>
                 <br>
               </div>
@@ -120,21 +120,20 @@
 
           <div class="col-md-6">
               <p class="lead">
-                   <i class="fa fa-calendar"></i> Available: Spring &nbsp;&nbsp; <i class="fa fa-cube"></i> 20 nights &nbsp;&nbsp; <i class="fa fa-plane"></i> Flight included
+                   <i class="fa fa-calendar"></i> Agenda disponible &nbsp;&nbsp; <i class="fa fa-cube"></i> Tareas &nbsp;&nbsp;
               </p>
 
               <br>
 
-              <p><i class="fa fa-map-marker"></i>  <strong>6 Regeneration Road, SE16 2NX, London</strong></p>
+              <p><i class="fa fa-map-marker"></i>  <strong>Ubicacion de la empresa, CDMX, Mexico</strong></p>
 
               <br>
 
               
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui, delectus totam non est excepturi expedita, illum vitae vel dolore exercitationem nobis quasi dicta illo id  quas. Error commodi, modi minus. <br><br>
-                Perferendis, quidem, facilis. Aspernatur alias numquam saepe deleniti dolorem quos repudiandae eaque ad eligendi quam, ratione, error minima culpa suscipit nostrum magni omnis est. Suscipit dolor sint aut maiores eius, id nemo, optio, quos tempora cum est quas. At recusandae obcaecati consequatur ipsa dignissimos, eius commodi qui quae exercitationem fugiat, voluptatem, nesciunt!
+              <p>Como parte de nuestro servicio te brindamos las distintas opciones que debes conocer dependiendo de la magnitud y escalabilidad de tu negocio, es decir el numero de modulos y funcionalidades que poseera tu sistema
               </p>   
 
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem voluptatem vero culpa rerum similique labore, nisi minus voluptatum numquam fugiat. <br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat fugit sint reiciendis quas temporibus quam maxime nulla vitae consectetur perferendis, fugiat assumenda ex dicta molestias soluta est quo totam cum?</p> 
+              <p>Para realizar todo esto debes ponerte en contacto con nuestros expertos y posteriormente iniciar la fase de planeacion <br><br>En esta fase se pretende poner sobre la mesa el diseño que se llevara a cabo de manera precisa mediante diversos diagramas como: Casos de uso, Mockups, Requerimientos, etc</p> 
             
           </div>
         </div>
@@ -144,17 +143,17 @@
     <div class="section">
       <div class="container">
         <div class="section-heading" style="border: 0">
-          <h2>Availability &amp; Prices</h2>
+          <h2>Rentabilidad &amp; Precios</h2>
         </div>
 
         <div class="table-responsive">
           <table width="100%" border="0" cellspacing="0" cellpadding="0" class="table">
                <thead>
                     <tr>
-                         <th>Package</th>
-                         <th>From</th>
-                         <th>To</th>
-                         <th>Price</th>
+                         <th>Servicio</th>
+                         <th>De:</th>
+                         <th>A:</th>
+                         <th>Precio</th>
                     </tr>
                </thead>
                
@@ -163,27 +162,27 @@
                          <td></td>
                          <td>01-06-2020</td>
                          <td>31-12-2020</td>
-                         <td>€ 300 per night</td>
+                         <td>$ 300 por mes</td>
                     </tr>
 
                     <tr>
                          <td></td>
                          <td>01-06-2020</td>
                          <td>31-12-2020</td>
-                         <td>€ 300 per night</td>
+                         <td>$ 300 por mes</td>
                     </tr>
 
                     <tr>
                          <td></td>
                          <td>01-06-2020</td>
                          <td>31-12-2020</td>
-                         <td>€ 300 per night</td>
+                         <td>$ 300 por mes</td>
                     </tr>
                     <tr>
                          <td></td>
                          <td>01-06-2020</td>
                          <td>31-12-2020</td>
-                         <td>€ 4000 total price</td>
+                         <td>$ 300 por mes</td>
                     </tr>
                </tbody>
           </table>
@@ -202,12 +201,12 @@
                <div class="row">
                     <div class="col-md-2 col-sm-3">
                          <p class="pjVpProductPolicyTitle">
-                              <strong>Check-in</strong>
+                              <strong>No. de peticiones</strong>
                          </p>
                     </div>
                     <div class="col-md-10 col-sm-9">
                          <p>
-                              Donec dapibus semper sem, ac ultrices sem sagittis ut. Donec sit amet erat elit, sed pellentesque odio. In enim ligula, euismod a adipiscing in, laoreet quis turpis. Ut accumsan dignissim rutrum.
+                              Especificar un numero aproximado de usuarios que se tendran par poder preever errores y sobrecarga de el sistema
                          </p>
                     </div>
                </div>
@@ -217,13 +216,13 @@
                <div class="row">
                     <div class="col-md-2 col-sm-3">
                          <p>
-                              <strong>Check-out</strong>
+                              <strong>Almacenamiento en la nube</strong>
                          </p>
                     </div>
 
                     <div class="col-md-10 col-sm-9">
                          <p>
-                              Donec dapibus semper sem, ac ultrices sem sagittis ut. Donec sit amet erat elit, sed pellentesque odio. In enim ligula, euismod a adipiscing in, laoreet quis turpis. Ut accumsan dignissim rutrum.
+                              Dependiendo de la capacidad que se requiera el precio puede variar ente los 500- 1200 pesos mensuales
                          </p>
                     </div>
                </div>
@@ -233,12 +232,12 @@
                <div class="row">
                     <div class="col-md-2 col-sm-3">
                          <p>
-                              <strong>Pets</strong>
+                              <strong>API</strong>
                          </p>
                     </div>
                     <div class="col-md-10 col-sm-9">
                          <p>
-                              Not allowed
+                              Solo contamos con algunos servicios distribuidos
                          </p>
                     </div>
                </div>
@@ -248,38 +247,20 @@
                <div class="row">
                     <div class="col-md-2 col-sm-3">
                          <p>
-                              <strong>Policies</strong>
+                              <strong>Politicas</strong>
                          </p>
                     </div>
                     <div class="col-md-10 col-sm-9">
                          <div>
                               <p>
-                                   Donec dapibus semper sem, ac ultrices sem sagittis ut. Donec sit amet erat elit, sed pellentesque odio. In enim ligula, euismod a adipiscing in, laoreet quis turpis. Ut accumsan dignissim rutrum. <br>
-                                    Donec dapibus semper sem, ac ultrices sem sagittis ut. Donec sit amet erat elit, sed pellentesque odio. In enim ligula, euismod a adipiscing in, laoreet quis turpis. Ut accumsan dignissim rutrum. <br>
+                                   Se asume que el cliente ha leido los terminos y condiciones de la empresa dejando a su responsibilidad por cualquier conflicto de esta indole<br>
+                                    Por otro lado las politicas de privacidad se respetaran segun lo acordado en la seccion 12 del servicio a cliente <br>
                               </p>
                          </div>
                     </div>
                </div>
           </li>
-          
-          <li class="list-group-item">
-               <div class="row">
-                    <div class="col-md-2 col-sm-3">
-                         <p>
-                              <strong>Fees</strong>
-                         </p>
-                    </div>
-
-                    <div class="col-md-10 col-sm-9">
-                         <div>
-                              <p>
-                                   Donec dapibus semper sem, ac ultrices sem sagittis ut. Donec sit amet erat elit, sed pellentesque odio. In enim ligula, euismod a adipiscing in, laoreet quis turpis. Ut accumsan dignissim rutrum. <br>
-                                    Donec dapibus semper sem, ac ultrices sem sagittis ut. Donec sit amet erat elit, sed pellentesque odio. In enim ligula, euismod a adipiscing in, laoreet quis turpis. Ut accumsan dignissim rutrum. <br>
-                              </p>
-                         </div>
-                    </div>
-               </div>
-          </li>
+        
      </ul>
 
 
