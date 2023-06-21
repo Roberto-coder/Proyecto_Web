@@ -83,14 +83,14 @@
         </div>
         <div class="banner-item-02">
           <div class="text-content">
-            <h4>Fugiat Aspernatur</h4>
-            <h2>Laboriosam reprehenderit ducimus</h2>
+            <h4>Explora nuestros Proyectos</h4>
+            <h2>Tenemos los mejores servicios web</h2>
           </div>
         </div>
         <div class="banner-item-03">
           <div class="text-content">
-            <h4>Saepe Omnis</h4>
-            <h2>Quaerat suscipit unde minus dicta</h2>
+            <h4>Mantente al dia</h4>
+            <h2>En nuestro blog tenemos toda la informacion</h2>
           </div>
         </div>
       </div>
